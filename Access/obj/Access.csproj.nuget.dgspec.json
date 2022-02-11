@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Access\\Access\\Access.csproj": {}
+    "C:\\source\\test\\antonela\\Access\\Access\\Access.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Access\\Access\\Access.csproj": {
+    "C:\\source\\test\\antonela\\Access\\Access\\Access.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Access\\Access\\Access.csproj",
+        "projectUniqueName": "C:\\source\\test\\antonela\\Access\\Access\\Access.csproj",
         "projectName": "Access",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Access\\Access\\Access.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Access\\Access\\obj\\",
+        "projectPath": "C:\\source\\test\\antonela\\Access\\Access\\Access.csproj",
+        "packagesPath": "C:\\Users\\bmatheney\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\test\\antonela\\Access\\Access\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bmatheney\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

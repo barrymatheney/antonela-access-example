@@ -15,7 +15,7 @@ namespace Access
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseAccess("DataSource=C:\\Users\\User\\Desktop\\Access\\Test.accdb");
+                optionsBuilder.UseAccess("DataSource=C:\\temp\\Test.accdb");
             }
         }
 
